@@ -66,22 +66,27 @@ p {
 }
 /* Hero Style End */
 
+/*floats .jpg left*/
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/*floats .jpg right*/
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/*Content Style Starts*/
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+/*Content Style Ends*/
 
+/*Benefits Style Starts*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -130,7 +135,9 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/*Benefits Style Ends*/
 
+/*Content Style Begins*/
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -184,6 +191,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/*Content Style Ends*/
 
 /*apply styles to <footer>*/
 footer {
